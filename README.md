@@ -1,5 +1,7 @@
 ### Olá, eu sou o Eduardo Pacheco 👋
 
+Sou apaixonado por tecnologia, e estou sempre em busca de novos desafios para que possa aplicar e adquirir mais conhecimentos!
+
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_pacheco04/) 
 [![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/duduu_pacheco)
 [![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eduardopacheco0)
@@ -18,5 +20,4 @@
 <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </div> <br/>
 
-Sou apaixonado por tecnologia, e estou sempre em busca de novos desafios para que possa aplicar e adquirir mais conhecimentos!
 
