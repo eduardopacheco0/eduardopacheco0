@@ -1,6 +1,6 @@
 ### Olá, eu sou o Eduardo Pacheco 👋
 
-Sou apaixonado por tecnologia, e estou sempre em busca de novos desafios para que possa aplicar e adquirir mais conhecimentos!
+Sou um jovem estudante de Engenharia de Computação, apaixonado por tecnologia e inovação. Estou em constante aprendizado e busco sempre evoluir minhas habilidades em desenvolvimento de software e outras áreas relacionadas à computação.
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/eduardo_pacheco04/) 
 [![Blog](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/duduu_pacheco)
